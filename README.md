@@ -1,2 +1,2 @@
-# Data-Visualization-
+# DataVis_SeabornPlots-
 Visualization of various plots
